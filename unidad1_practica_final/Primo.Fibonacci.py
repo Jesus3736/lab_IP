@@ -10,7 +10,6 @@ if n > 1:
         i = i + 1
 if es_primo == True:
     print("Es primo")
-
 if es_primo == False:
     print("No es primo")
 a = 0
@@ -21,6 +20,5 @@ while a < n:
     b = siguiente
 if a == n:
     print("Está en Fibonacci")
-
 if a != n:
     print("No está en Fibonacci")
