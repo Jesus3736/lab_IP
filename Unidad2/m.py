@@ -3,3 +3,7 @@ for numero in range(0, 100):
         print(numero)
      
 #update unidad 2
+"""
+print(f"Total con propina: {total_con_propina:.2f}")
+print(f"Cada persona paga: {pago_por_persona:.2f}")
+"""
